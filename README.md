@@ -2,11 +2,10 @@
 - 🔭 I’m currently coding lua, css, js
 - 🌱 I’m currently learning html
 - 📫 How to reach me: You can find me in my [**Discord**]: (https://discord.gg/hm5yksT5)
-- 
 - 😄 Pronouns: themanelpj
 - 🤔 My GitHub stats: 
 
-[![themanelpj](https://komarev.com/ghpvc/?username=themanelpj)
+![themanelpj](https://komarev.com/ghpvc/?username=themanelpj)
 
 [![themanelpj](https://github-readme-stats.vercel.app/api?username=themanelpj)](https://discord.gg/eBpmkW6e5j)
 
