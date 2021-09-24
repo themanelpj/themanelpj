@@ -7,9 +7,13 @@
 
 ![themanelpj](https://komarev.com/ghpvc/?username=themanelpj)
 
-[![themanelpj](https://github-readme-stats.vercel.app/api?username=themanelpj)](https://discord.gg/eBpmkW6e5j)
+<div align="center">
 
-[![guillerp8](https://github-readme-stats.vercel.app/api/top-langs/?username=themanelpj)](https://discord.gg/eBpmkW6e5j)
+<hr style="height:5px; border: 1px solid #ccc;">
+
+[![themanelpj](https://github-readme-stats.vercel.app/api?username=themanelpj&show_icons=true&theme=tokyonight&hide=["issues"])](https://discord.gg/eBpmkW6e5j)
+
+[![themanelpj](https://github-readme-stats.vercel.app/api/top-langs/?username=themanelpj)](https://discord.gg/eBpmkW6e5j)
 
 
 
