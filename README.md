@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themanelpj
-- 🔭 I’m currently coding lua, css, js
-- 🌱 I’m currently learning html
+- 🔭 I’m currently coding lua, css
+- 🌱 I’m currently learning html, js
 - 📫 How to reach me: You can find me in my [**Discord**](https://discord.gg/hm5yksT5)
 - 😄 Pronouns: themanelpj
 - 🤔 My GitHub stats: 
