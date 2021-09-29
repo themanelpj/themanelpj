@@ -11,11 +11,11 @@
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
-[![themanelpj](https://github-readme-stats.vercel.app/api?username=themanelpj&show_icons=true&theme=tokyonight&hide=["issues"])]
+![themanelpj](https://github-readme-stats.vercel.app/api?username=themanelpj&show_icons=true&theme=tokyonight&hide=["issues"])]
   
   <hr style="height:5px; border: 1px solid #ccc;">
 
-[![themanelpj](https://github-readme-stats.vercel.app/api/top-langs?username=themanelpj&show_icons=true&theme=tokyonight&layout=compact)]
+![themanelpj](https://github-readme-stats.vercel.app/api/top-langs?username=themanelpj&show_icons=true&theme=tokyonight&layout=compact)]
 
 
 
